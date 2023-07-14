@@ -1,2 +1,2 @@
-#include <stdio.h>
-#include <unistd.h>
+#!/bin/bash
+gcc -S -masm=intel $CFILE
